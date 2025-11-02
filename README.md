@@ -5,7 +5,8 @@ A simple web app with a button that increases the counter value each time it’s
 ---
 
 ### 📸 Screenshot
-<img width="1024" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a520f1d6-df7b-4446-98e3-e283d6429f10" />
+<img width="408" height="271" alt="image" src="https://github.com/user-attachments/assets/c24b8081-4ea8-4683-b957-9765a43e9b77" />
+
 
 ---
 
